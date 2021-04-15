@@ -1,5 +1,5 @@
 
-function cargarJsonNoticias() {
+/**function cargarJsonNoticias() {
     var url = "http://demo6497253.mockable.io/noticias";
   
     fetch(url)
@@ -20,7 +20,4 @@ function cargarJsonNoticias() {
     }
   }
   cargarJsonNoticias();
-
-
-
-
+*/
